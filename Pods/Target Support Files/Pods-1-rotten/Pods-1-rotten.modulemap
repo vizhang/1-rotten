@@ -1,0 +1,6 @@
+framework module Pods_1_rotten {
+  umbrella header "Pods-1-rotten-umbrella.h"
+
+  export *
+  module * { export * }
+}
